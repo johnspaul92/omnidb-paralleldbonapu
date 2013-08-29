@@ -1,1 +1,0 @@
-void Query_handShaking();
