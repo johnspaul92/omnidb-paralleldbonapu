@@ -1,3 +1,4 @@
+<<<<<<< HEAD:README
 
 /*NOTES(tony): This help file is prepared in a rash, please feel free to contact me with any difficulties you faced.*/
 *******bin**********
@@ -22,5 +23,8 @@ I will update them into easy-benchmark version later.
 /*NOTES*/
 Do be aware that, if parallism is too high(say, 10 true concrrent threads), GPU memory may not enough to buffering requests,
 which will lead program crash. This bug will be addressed later.
+=======
+Please refer to the other README.txt
+>>>>>>> 502f86482514196e26d768d4754ca771232ca460:ReadMe.txt
 
 
